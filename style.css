@@ -9,7 +9,7 @@
 }
 
 body{
-    background-color: #7b4ee3;
+    background-color: #a48ed8;
 }
 
 /* NAVIGATION BAR */
@@ -21,7 +21,7 @@ nav{
 }
 
 .navigation-bar{
-    background-color: #a00f8d;
+    background-color: #c2a75c;
     padding: 5px;
     margin: 0;
     height: 70px;
@@ -278,7 +278,7 @@ li{
 fieldset{
     text-align: center;
     margin: auto;
-    border-color: #ffc107;
+    border-color: #20d84e;
     width: 1050px;
     border-style: double;
     border-width: 5px;
