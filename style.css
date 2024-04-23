@@ -21,7 +21,7 @@ nav{
 }
 
 .navigation-bar{
-    background-color: #c2a75c;
+    background-color: #189850;
     padding: 5px;
     margin: 0;
     height: 70px;
@@ -135,7 +135,7 @@ li{
     right: 0;
     color:#9f1719;
     width: 100%;
-    background-color: #7b4ee3;
+    background-color: #2b097b;
     animation: typing 2.5s steps(30) alternate infinite;
 }
 
